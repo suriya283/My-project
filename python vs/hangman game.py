@@ -1,4 +1,4 @@
-from words_list import games
+from helper_hangman import games
 import random
 
 
@@ -82,4 +82,5 @@ def main():
 
 
 if __name__=="__main__":
+
     main() 
