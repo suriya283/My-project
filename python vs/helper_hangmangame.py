@@ -99,3 +99,4 @@ games= (
     "stateofdecay2","outerwilds","outerworlds","spyro","crashbandicoot","crashteamracing",
     "splatoon","splatoon2","splatoon3","arms","pikmin3","bayonetta3"
 )
+
